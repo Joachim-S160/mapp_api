@@ -8,7 +8,7 @@ Follow these simple steps:
 1. Edit the file "chemical_formula.csv" to include all chemical formula. The upper limit of entries is 10,000. Read the file for examples.
 2. Run python code.
 ```python
-python mapp_mp.py
+python mapp_mp_pycurl.py
 ```
 3. Find the melting temperature predictions in "output.csv". Read the file for examples.
 
